@@ -1,0 +1,6 @@
+{
+  "name": "Collector",
+  "description": "Formulaire de saisie dynamique et intuitif avec base de données locale, exportation Excel/PDF et gestion des contacts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
